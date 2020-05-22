@@ -20,7 +20,6 @@
 
 # In[40]:
 
-#test
 class Shirt:
 
     def __init__(self, shirt_color, shirt_size, shirt_style, shirt_price):
