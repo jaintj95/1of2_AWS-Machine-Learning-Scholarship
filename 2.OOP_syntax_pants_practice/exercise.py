@@ -25,7 +25,7 @@
 #  * change_price() a method to change the price attribute
 #  * discount() to calculate a discount
 
-# In[12]:
+# In[1]:
 
 
 ### TODO:
@@ -72,7 +72,7 @@ class Pants:
 # 
 # If you run the next code cell and get an error, then revise your code until the code cell doesn't output anything.
 
-# In[13]:
+# In[2]:
 
 
 def check_results():
@@ -112,7 +112,7 @@ check_results()
 #  * display_sales() a method to print out all the pants sold with nice formatting
 #  * calculate_commission() a method to calculate the salesperson commission based on total sales and a percentage
 
-# In[54]:
+# In[3]:
 
 
 ### TODO:
@@ -228,7 +228,7 @@ class SalesPerson:
 # 
 # If you run the next code cell and get an error, then revise your code until the code cell doesn't output anything.
 
-# In[55]:
+# In[4]:
 
 
 def check_results():
@@ -270,7 +270,7 @@ check_results()
 # color: tan, waist_size: 28, length: 30, price: 8.12
 # ```
 
-# In[56]:
+# In[5]:
 
 
 pants_one = Pants('red', 35, 36, 15.12)
